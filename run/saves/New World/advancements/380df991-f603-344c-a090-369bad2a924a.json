@@ -1,0 +1,15 @@
+{
+  "betterminecraft:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2022-05-17 22:05:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_taiga": "2022-05-17 22:05:54 +0200"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}

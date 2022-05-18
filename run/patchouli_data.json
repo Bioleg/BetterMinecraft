@@ -1,0 +1,16 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "betterminecraft:better_minecraft": {
+      "viewedEntries": [
+        "betterminecraft:test/test_entry"
+      ],
+      "bookmarks": [],
+      "history": [
+        "betterminecraft:test/test_entry"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}
