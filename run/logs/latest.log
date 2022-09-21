@@ -166,3 +166,20 @@
 [21Sep2022 17:25:13.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[test]'/minecraft:overworld
 [21Sep2022 17:25:13.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[test]'/minecraft:the_nether
 [21Sep2022 17:25:13.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[test]'/minecraft:the_end
+[21Sep2022 17:26:56.366] [Render thread/INFO] [mezz.jei.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggedOutEvent
+[21Sep2022 17:26:56.366] [Render thread/INFO] [mezz.jei.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[21Sep2022 17:26:56.366] [Render thread/INFO] [mezz.jei.startup.ClientLifecycleHandler/]: Stopping JEI
+[21Sep2022 17:26:56.416] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dev lost connection: Disconnected
+[21Sep2022 17:26:56.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev left the game
+[21Sep2022 17:26:56.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stopping singleplayer server as player logged out
+[21Sep2022 17:26:56.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Sep2022 17:26:56.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Sep2022 17:26:56.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Sep2022 17:26:57.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[test]'/minecraft:overworld
+[21Sep2022 17:26:57.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[test]'/minecraft:the_nether
+[21Sep2022 17:26:57.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[test]'/minecraft:the_end
+[21Sep2022 17:26:57.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (test): All chunks are saved
+[21Sep2022 17:26:57.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Sep2022 17:26:57.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Sep2022 17:26:57.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Sep2022 17:26:58.131] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!

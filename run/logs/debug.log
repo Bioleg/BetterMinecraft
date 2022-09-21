@@ -642,3 +642,24 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Sep2022 17:25:13.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[test]'/minecraft:the_end
 [21Sep2022 17:25:13.033] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save test
 [21Sep2022 17:25:13.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete test
+[21Sep2022 17:26:56.366] [Render thread/INFO] [mezz.jei.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggedOutEvent
+[21Sep2022 17:26:56.366] [Render thread/INFO] [mezz.jei.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
+[21Sep2022 17:26:56.366] [Render thread/INFO] [mezz.jei.startup.ClientLifecycleHandler/]: Stopping JEI
+[21Sep2022 17:26:56.416] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dev lost connection: Disconnected
+[21Sep2022 17:26:56.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev left the game
+[21Sep2022 17:26:56.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stopping singleplayer server as player logged out
+[21Sep2022 17:26:56.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Sep2022 17:26:56.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Sep2022 17:26:56.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Sep2022 17:26:57.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[test]'/minecraft:overworld
+[21Sep2022 17:26:57.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[test]'/minecraft:the_nether
+[21Sep2022 17:26:57.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[test]'/minecraft:the_end
+[21Sep2022 17:26:57.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save test
+[21Sep2022 17:26:57.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete test
+[21Sep2022 17:26:57.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (test): All chunks are saved
+[21Sep2022 17:26:57.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Sep2022 17:26:57.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Sep2022 17:26:57.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Sep2022 17:26:57.447] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : .\saves\test\serverconfig
+[21Sep2022 17:26:57.447] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[21Sep2022 17:26:58.131] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
